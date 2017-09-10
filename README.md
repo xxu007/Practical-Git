@@ -1,6 +1,8 @@
 Practice Git
 
-
+git blame1
+git blame2
+git blame3
 
 
 ```
